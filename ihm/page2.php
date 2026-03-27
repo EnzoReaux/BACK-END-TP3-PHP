@@ -55,6 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {// Vérifie si le formulaire a été 
     }
 }
 ?>
+<a href="../indexSecu.html"><button>Acces a la page index</button></a>
 
 </body>
 </html>

@@ -39,6 +39,7 @@ $listecapteurs = json_decode($capteur->getAll()); //data base.php renvoie un obj
 
     <?php endforeach; ?>
     <!-- creation d'une boucle creant des lignes en changeant la variable listecapteurs ! -->
+    <a href="../indexSecu.html"><button>Acces a la page index</button></a>
 
 </table>
 </body>
